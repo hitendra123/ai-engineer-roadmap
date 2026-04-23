@@ -1,0 +1,154 @@
+[
+  {
+    "job_title": "Senior AI Engineer \",\" Microsoft Azure AI",
+    "company": {
+      "name": "Microsoft",
+      "industry": "Technology",
+      "size": "enterprise",
+      "stage": null
+    },
+    "seniority": "senior",
+    "required_skills": [
+      "Python",
+      "LangChain",
+      "LangGraph",
+      "RAG systems",
+      "Vector Databases",
+      "Pinecone",
+      "Azure AI Search",
+      "Azure OpenAI",
+      "Azure AI Foundry",
+      "REST API design",
+      "FastAPI",
+      "Git",
+      "CI/CD pipelines"
+    ],
+    "nice_to_have": [
+      "Prompt engineering",
+      "Evaluation frameworks",
+      "LangSmith",
+      "Open source AI contributions",
+      "Kubernetes for ML workloads"
+    ],
+    "salary_min": 160000,
+    "salary_max": 210000,
+    "remote_ok": true,
+    "match_score": 98,
+    "match_reason": "This role is an excellent match, requiring strong skills in Python, LangChain, LangGraph, RAG, Azure AI, and Vector Databases, all of which are core strengths of the profile.",
+    "gap_skills": [
+      "REST API design",
+      "FastAPI",
+      "Git",
+      "CI/CD pipelines"
+    ],
+    "summary": "This Senior AI Engineer role at Microsoft involves designing and building large-scale AI systems for the Azure AI team, focusing on LangChain, LangGraph, and Azure OpenAI services. The position requires implementing RAG pipelines, optimizing LLM inference, and collaborating on vector database solutions using production-quality Python code."
+  },
+  {
+    "job_title": "AI Solutions Architect \u00e2\u20ac\u201d Deloitte Consulting",
+    "company": {
+      "name": "Deloitte Consulting",
+      "industry": "Professional Services",
+      "size": "enterprise",
+      "stage": null
+    },
+    "seniority": "lead",
+    "required_skills": [
+      "Software Architecture",
+      "Solution Design",
+      "LLM Applications",
+      "RAG",
+      "Agents",
+      "Fine-tuning",
+      "LangChain",
+      "LangGraph",
+      "Azure AI",
+      "AWS Bedrock",
+      "GCP Vertex AI",
+      "Pinecone",
+      "Weaviate",
+      "Azure AI Search",
+      "Python",
+      "Java",
+      "C#",
+      "Go",
+      "Communication",
+      "Client-facing Presentation"
+    ],
+    "nice_to_have": [
+      "Microsoft Fabric",
+      "Databricks",
+      "AI Governance",
+      "Responsible AI Frameworks",
+      "MBA",
+      "Salesforce Integration",
+      "SAP Integration"
+    ],
+    "salary_min": 180000,
+    "salary_max": 230000,
+    "remote_ok": true,
+    "match_score": 95,
+    "match_reason": "The profile aligns exceptionally well with the core technical requirements, including Python, LangChain, RAG, Azure AI, LangGraph, and Vector Databases, which are all explicitly required for this role.",
+    "gap_skills": [
+      "C#",
+      "Go",
+      "Microsoft Fabric",
+      "Databricks",
+      "AI Governance",
+      "Responsible AI Frameworks",
+      "Salesforce Integration",
+      "SAP Integration"
+    ],
+    "summary": "This role is for an AI Solutions Architect at Deloitte Consulting, leading enterprise AI transformation projects for Fortune 500 clients. The architect will design end-to-end AI architectures, advise C-suite executives, and guide delivery teams in building production AI systems."
+  },
+  {
+    "job_title": "Machine Learning Engineer",
+    "company": {
+      "name": "Early Stage Startup",
+      "industry": "AI-powered sales tools",
+      "size": "startup",
+      "stage": "Series A"
+    },
+    "seniority": "mid",
+    "required_skills": [
+      "Python",
+      "machine learning",
+      "scikit-learn",
+      "PyTorch",
+      "TensorFlow",
+      "NLP",
+      "transformer models",
+      "BERT",
+      "GPT",
+      "AWS",
+      "SageMaker",
+      "S3",
+      "Lambda",
+      "SQL",
+      "data pipeline",
+      "MLflow"
+    ],
+    "nice_to_have": [
+      "LangChain",
+      "LLM application development",
+      "Docker",
+      "Kubernetes",
+      "startup experience",
+      "Java",
+      "Scala"
+    ],
+    "salary_min": 130000,
+    "salary_max": 160000,
+    "remote_ok": false,
+    "match_score": 65,
+    "match_reason": "The profile has strong Python and moderate SQL skills, which are required, and LangChain/Docker are nice-to-haves, but the job requires AWS and specific ML frameworks not explicitly in the profile's strong list, and lacks direct mention of RAG or Azure AI.",
+    "gap_skills": [
+      "scikit-learn",
+      "PyTorch",
+      "TensorFlow",
+      "transformer models",
+      "AWS",
+      "MLflow"
+    ],
+    "summary": "This role is for a hands-on Machine Learning Engineer at an early-stage Series A startup building AI-powered sales tools. The position involves owning the recommendation engine, developing NLP features, and managing the full ML lifecycle using Python, AWS, and various ML frameworks."
+  }
+]
