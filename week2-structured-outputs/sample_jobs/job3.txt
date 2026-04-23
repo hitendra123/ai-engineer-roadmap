@@ -1,0 +1,35 @@
+AI Solutions Architect — Deloitte Consulting
+
+Location: New York, NY (Remote Friendly)
+Salary: $180,000 - $230,000
+
+About Deloitte:
+Deloitte is one of the world's largest professional services firms, serving clients across every major industry.
+
+Role Overview:
+We are seeking an AI Solutions Architect to lead enterprise AI transformation projects for Fortune 500 clients. You will design end-to-end AI architectures, advise C-suite executives, and guide delivery teams building production AI systems.
+
+Responsibilities:
+- Architect enterprise AI solutions using Azure, AWS, and GCP platforms
+- Design RAG systems, agentic workflows, and LLM-powered applications for clients
+- Lead technical discovery workshops with client stakeholders
+- Evaluate and recommend AI tools, frameworks, and vendors
+- Mentor junior engineers and review architecture decisions
+- Create technical proposals and solution design documents
+
+Required Skills:
+- 8+ years in software architecture or solution design
+- Deep expertise in LLM applications: RAG, agents, fine-tuning
+- Experience with LangChain, LangGraph, or similar frameworks
+- Multi-cloud architecture (Azure AI, AWS Bedrock, GCP Vertex AI)
+- Vector databases: Pinecone, Weaviate, Azure AI Search
+- Strong communication and client-facing presentation skills
+- Python and at least one other language (Java, C#, Go)
+
+Nice to Have:
+- Experience with Microsoft Fabric or Databricks
+- AI governance and responsible AI frameworks
+- MBA or advanced degree
+- Salesforce or SAP integration experience
+
+Travel required: up to 30% for client engagements.

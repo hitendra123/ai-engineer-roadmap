@@ -1,0 +1,33 @@
+Machine Learning Engineer — Early Stage Startup (Series A)
+
+Location: San Francisco, CA — Hybrid (3 days onsite required)
+Salary: $130,000 - $160,000 + equity
+
+About Us:
+We are a Series A startup building the next generation of AI-powered sales tools. Our team is 25 people and growing fast.
+
+Role Overview:
+We need a hands-on ML Engineer who can move fast and build end-to-end ML systems. You will own our recommendation engine and work on NLP features for our sales assistant product.
+
+Responsibilities:
+- Build and maintain ML models for lead scoring and sales forecasting
+- Develop NLP features using transformer models
+- Set up ML infrastructure using AWS SageMaker
+- Work with the product team to ship ML features every sprint
+- Own the full ML lifecycle: data → training → deployment → monitoring
+
+Required Skills:
+- 3+ years Python and machine learning experience
+- Strong knowledge of scikit-learn, PyTorch or TensorFlow
+- Experience with NLP and transformer models (BERT, GPT)
+- AWS experience (SageMaker, S3, Lambda)
+- SQL and data pipeline experience
+- Familiarity with MLflow or similar experiment tracking
+
+Nice to Have:
+- LangChain or LLM application development experience
+- Docker and Kubernetes
+- Experience at a startup
+- Java or Scala for data engineering
+
+Fast-paced startup environment. Equity package included.

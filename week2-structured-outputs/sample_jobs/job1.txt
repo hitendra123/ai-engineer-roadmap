@@ -1,1 +1,33 @@
+Senior AI Engineer — Microsoft Azure AI
 
+Location: Redmond, WA (Remote OK)
+Salary: $160,000 - $210,000
+
+About Microsoft:
+Microsoft is a global technology leader building AI-powered products used by billions worldwide.
+
+Role Overview:
+We are looking for a Senior AI Engineer to join our Azure AI team. You will design and build large-scale AI systems using LangChain, LangGraph, and Azure OpenAI services. You will work closely with product teams to ship AI features to millions of users.
+
+Responsibilities:
+- Design and implement RAG pipelines using Azure AI Search and Azure OpenAI
+- Build multi-agent systems using LangGraph and LangChain
+- Optimize LLM inference for cost and latency at scale
+- Collaborate with data engineers to build vector database solutions
+- Write production-quality Python code with full test coverage
+
+Required Skills:
+- 5+ years Python development
+- Strong experience with LangChain and LangGraph
+- Experience building RAG systems with vector databases (Pinecone, Azure AI Search)
+- Azure OpenAI and Azure AI Foundry experience
+- REST API design and FastAPI
+- Git, CI/CD pipelines
+
+Nice to Have:
+- Experience with prompt engineering and evaluation frameworks
+- Knowledge of LangSmith or similar observability tools
+- Contributions to open source AI projects
+- Experience with Kubernetes for ML workloads
+
+We are an equal opportunity employer.
