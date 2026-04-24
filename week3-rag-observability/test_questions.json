@@ -1,0 +1,7 @@
+[
+  {"input": "What is RAG and how does it work?"},
+  {"input": "What are the key benefits of RAG over standard LLMs?"},
+  {"input": "What are the main components of a RAG system?"},
+  {"input": "How is RAG different from fine-tuning?"},
+  {"input": "What tools can be used to evaluate RAG systems?"}
+]
